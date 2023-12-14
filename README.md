@@ -1,6 +1,6 @@
 # CRUD-Users-Products
 
- * using express and mysql2 *
+*using express and mysql2*
 I created some APIs 
 1) User:
    add user (user must not found before)
